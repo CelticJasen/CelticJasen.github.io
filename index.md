@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 <a href="https://github.com/CelticJasen/workexamples">Work Examples</a>
 
