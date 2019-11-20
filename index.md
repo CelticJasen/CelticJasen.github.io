@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Work Examples]
-<a href="https://github.com/CelticJasen/workexamples"></a>
+<a href="https://github.com/CelticJasen/workexamples">Work Examples</a>
 
 ---
 
