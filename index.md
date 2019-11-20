@@ -13,7 +13,7 @@ I currently develop software on the back end of a LAMP server at eMoviePoster.co
 
 Java:
 <br>
-<a href="https://github.com/CelticJasen/workexamples">Work Examples</a>
+<a href="https://github.com/CelticJasen/javaexamples">Work Examples</a>
 <br>
 Work that I have done with Java in the Eclipse IDE.
 <br><br>
