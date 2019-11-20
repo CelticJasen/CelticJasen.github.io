@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Work Examples](/sample_page)
-<a href="workexamples.zip"/>
+<a href="workexamples.zip" download/>
 
 ---
 
