@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Work Examples](/sample_page)
-<a href="https://github.com/CelticJasen/workexamples"/>
+<a href="https://github.com/CelticJasen/workexamples"></a>
 
 ---
 
