@@ -4,7 +4,21 @@
 
 ### Projects
 
-Current Setup:
+Machine Learning:
+<br>
+<a href="https://github.com/CelticJasen/myMLApp">Project</a>
+<br>
+This is an app I made that will predict whether comments made by users are toxic or not.
+<br>
+
+Expense Tracker:
+<br>
+<a href="https://github.com/CelticJasen/ExpenseApp">Project</a>
+<br>
+This is an app I created that can track expenses of users.
+<br>
+
+Current:
 <br>
 <a href="https://github.com/CelticJasen/workexamples">Work Examples</a>
 <br>
