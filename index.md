@@ -38,5 +38,21 @@ C#:
 <br>
 C# scripts created for game development with Unity3D. Most notable work is with A* Pathfinding algorithm, AI decision trees, and Inverse Kinematics.
 <br>
-
+The following links will take you to some videos of game projects in progress that I created for clients in the past. Please be mindful of your volume as some of these are using temporary sound assets that are known to be hard on the ears.
+<br>
+Ancient Resurgence
+https://www.youtube.com/watch?v=xMxMO6559Fk
+<br>
+Alien Attack
+https://www.youtube.com/watch?v=Ad5kyo9E6wQ
+<br>
+Block Slam
+https://www.youtube.com/watch?v=ipw4t_Pwjrc
+<br>
+PewPew
+https://www.youtube.com/watch?v=EK3wAYb5FDY
+<br>
+Death Hunter
+https://www.youtube.com/watch?v=MbScYCEf8Vg
+<br>
 ---
