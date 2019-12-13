@@ -40,19 +40,14 @@ C# scripts created for game development with Unity3D. Most notable work is with 
 <br>
 The following links will take you to some videos of game projects in progress that I created for clients in the past. Please be mindful of your volume as some of these are using temporary sound assets that are known to be hard on the ears.
 <br>
-Ancient Resurgence
-https://www.youtube.com/watch?v=xMxMO6559Fk
+<a href="https://www.youtube.com/watch?v=xMxMO6559Fk">Ancient Resurgence</a>
 <br>
-Alien Attack
-https://www.youtube.com/watch?v=Ad5kyo9E6wQ
+<a href="https://www.youtube.com/watch?v=Ad5kyo9E6wQ">Alien Attack</a>
 <br>
-Block Slam
-https://www.youtube.com/watch?v=ipw4t_Pwjrc
+<a href="https://www.youtube.com/watch?v=ipw4t_Pwjrc">Block Slam</a>
 <br>
-PewPew
-https://www.youtube.com/watch?v=EK3wAYb5FDY
+<a href="https://www.youtube.com/watch?v=EK3wAYb5FDY">PewPew</a>
 <br>
-Death Hunter
-https://www.youtube.com/watch?v=MbScYCEf8Vg
+<a href="https://www.youtube.com/watch?v=MbScYCEf8Vg">Death Hunter</a>
 <br>
 ---
