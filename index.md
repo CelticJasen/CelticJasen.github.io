@@ -43,10 +43,10 @@ The following links will take you to some videos of game projects in progress th
 <br>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=ipw4t_Pwjrc">Block Slam</a></li> (A current project's main menu)
-<li><a href="https://www.youtube.com/watch?v=xMxMO6559Fk">Ancient Resurgence</a></li> (A 2D horror RPG)
-<li><a href="https://www.youtube.com/watch?v=Ad5kyo9E6wQ">Alien Attack</a></li> (A 3D action puzzle game)
-<li><a href="https://www.youtube.com/watch?v=EK3wAYb5FDY">PewPew</a></li> (A 2D shooter)
-<li><a href="https://www.youtube.com/watch?v=MbScYCEf8Vg">Death Hunter</a></li> (A 3D top down action game)
+<li><a href="https://www.youtube.com/watch?v=xMxMO6559Fk">Ancient Resurgence</a></li> (2D horror RPG)
+<li><a href="https://www.youtube.com/watch?v=Ad5kyo9E6wQ">Alien Attack</a></li> (3D action puzzle game)
+<li><a href="https://www.youtube.com/watch?v=EK3wAYb5FDY">PewPew</a></li> (2D shooter)
+<li><a href="https://www.youtube.com/watch?v=MbScYCEf8Vg">Death Hunter</a></li> (3D top down action game)
 </ul>
 <br>
 
