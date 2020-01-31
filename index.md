@@ -8,6 +8,8 @@ React:
 <br>
 <a href="CelticJasen.github.io/tictacreact">Project</a>
 <br>
+<a href="https://celticjasen.github.io/tictacreact/">Deployed APP</a>
+<br>
 TicTacToe created using React. This project utilizes immutability to implement an undo/redo "time travel" function.
 
 Machine Learning:
