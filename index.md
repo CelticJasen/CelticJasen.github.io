@@ -6,7 +6,7 @@
 
 React:
 <br>
-<a href="CelticJasen.github.io/tictacreact">Project</a>
+<a href="https://github.com/CelticJasen/tictacreact">Project</a>
 <br>
 <a href="https://celticjasen.github.io/tictacreact/">Deployed APP</a>
 <br>
