@@ -6,7 +6,7 @@
 
 React:
 <br>
-<a href="https://github.com/CelticJasen/tictacreact">Project</a>
+<a href="CelticJasen.github.io/tictacreact">Project</a>
 <br>
 TicTacToe created using React. This project utilizes immutability to implement an undo/redo "time travel" function.
 
