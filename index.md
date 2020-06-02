@@ -43,11 +43,11 @@ C# scripts created for game development with Unity3D. Most notable work is with 
 The following links will take you to some videos of game projects in progress that I created for clients in the past. Please be mindful of your volume as some of these are using temporary sound assets that are known to be hard on the ears.
 <br>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=ipw4t_Pwjrc">Block Slam</a></li> A current project's main menu that uses mathematical functions to transform image shape randomly over time in a fluid manner.
-<li><a href="https://www.youtube.com/watch?v=MbScYCEf8Vg">Death Hunter</a></li> 3D top down action game which uses advanced AI, 3D terrain pathfinding, inverse kinematics for character animation terrain and asset interaction, and advanced ragdoll effects.
 <li><a href="https://www.youtube.com/watch?v=Ad5kyo9E6wQ">Alien Attack</a></li> 3D action puzzle game that uses simple AI and 3D physics functions.
-<li><a href="https://www.youtube.com/watch?v=xMxMO6559Fk">Ancient Resurgence</a></li> 2D horror RPG that uses animation and mathematical functions for environmental shader effects and random events.
 <li><a href="https://www.youtube.com/watch?v=EK3wAYb5FDY">PewPew</a></li> 2D shooter that uses simple AI and gameplay functions.
+<li><a href="https://www.youtube.com/watch?v=MbScYCEf8Vg">Death Hunter</a></li> 3D top down action game which uses advanced AI, 3D terrain pathfinding, inverse kinematics for character animation terrain and asset interaction, and advanced ragdoll effects.
+<li><a href="https://www.youtube.com/watch?v=xMxMO6559Fk">Ancient Resurgence</a></li> 2D horror RPG that uses animation and mathematical functions for environmental shader effects and random events.
+<li><a href="https://www.youtube.com/watch?v=ipw4t_Pwjrc">Block Slam</a></li> A current project's main menu that uses mathematical functions to transform image shape randomly over time in a fluid manner.
 </ul>
 <br>
 
