@@ -4,14 +4,6 @@
 
 ### Projects
 
-React:
-<br>
-<a href="https://github.com/CelticJasen/tictacreact">Project</a>
-<br>
-<a href="https://celticjasen.github.io/tictacreact/">Deployed APP</a>
-<br>
-TicTacToe created using React. This project utilizes immutability to implement an undo/redo "time travel" function.
-
 Machine Learning:
 <br>
 <a href="https://github.com/CelticJasen/myMLApp">Project</a>
@@ -26,18 +18,19 @@ Expense Tracker:
 This is an app I created that can track expenses of users.
 <br>
 
+React:
+<br>
+<a href="https://github.com/CelticJasen/tictacreact">Project</a>
+<br>
+<a href="https://celticjasen.github.io/tictacreact/">Deployed APP</a>
+<br>
+TicTacToe created using React. This project utilizes immutability to implement an undo/redo "time travel" function.
+
 Current:
 <br>
 <a href="https://github.com/CelticJasen/workexamples">Work Examples</a>
 <br>
 Examples include PHP, JavaScript, HTML, CSS, Python, MySQL. I currently develop software on the back end of a LAMP server at eMoviePoster.com. On top of that, I also do some contract work in web development with WordPress and software development in .NET and I run a small mobile IT support operation of my own for the West Plains area involving residential and commercial customers.
-<br>
-
-Java:
-<br>
-<a href="https://github.com/CelticJasen/javaexamples">Work Examples</a>
-<br>
-Work that I have done with Java in the Eclipse IDE.
 <br>
 
 C#:
