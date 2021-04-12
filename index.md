@@ -4,6 +4,13 @@
 
 ### Projects
 
+Email Summary Text Alert:
+<br>
+<a href="https://github.com/CelticJasen/EmailTextAlert">Project</a>
+<br>
+This is an app I made that will retrieve specific emails and parse through them to create a summary of the email using regular expressions and PHP string functions. Once finished, it will send that summary to each member via text message. All member information is stored in a database. Text massaging is made possible by use of Vonage's text relay API.
+<br>
+
 Machine Learning:
 <br>
 <a href="https://github.com/CelticJasen/myMLApp">Project</a>
